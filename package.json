@@ -2,7 +2,6 @@
   "dependencies": {
     "@types/express": "^5.0.0",
     "@types/mongoose": "^5.11.96",
-    "@types/react": "^19.0.1",
     "@types/react-dom": "^19.0.2",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
@@ -10,7 +9,11 @@
     "react": "^19.0.0"
   },
   "devDependencies": {
+    "@types/cypress": "^0.1.6",
     "@types/dotenv": "^6.1.1",
+    "@types/jest": "^29.5.14",
+    "@types/mocha": "^10.0.10",
+    "@types/react": "^19.0.1",
     "cypress": "^13.16.1"
   }
 }
